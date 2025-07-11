@@ -1,0 +1,19 @@
+:root {
+    --font-family: Playfair Display, serif;
+
+}
+
+h1 {
+font-size: 500px;
+text-align: center;
+} 
+
+h2 {
+    font-size: 34px;
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+}
