@@ -1,6 +1,6 @@
 :root {
     --font-family: Playfair Display, serif;
-
+--btn-color: #6B63FF;
 }
 
 h1 {
@@ -16,4 +16,12 @@ h2 {
 
 h3 {
     text-align: center;
+}
+
+#more {
+background-color: var(--btn-color);
+color: white;
+padding: 15px 0;
+max-width: 80%;
+border-radius: 6px;
 }
