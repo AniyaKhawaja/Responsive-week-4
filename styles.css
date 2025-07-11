@@ -18,10 +18,20 @@ h3 {
     text-align: center;
 }
 
-#more {
+.primary-link {
 background-color: var(--btn-color);
 color: white;
-padding: 15px 0;
-max-width: 80%;
+text-decoration: none;
+padding: 18px 10px;
 border-radius: 6px;
 }
+
+.secondary-link {
+   background-color: white;
+   color:var(--btn-color);
+   border: 1px solid var(--btn-color);
+   text-decoration: none;
+   padding: 18px 10px;
+   border-radius: 6px;
+   }
+   
